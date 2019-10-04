@@ -1,7 +1,7 @@
 List<String> menuCardTitles = [
   "Modules",
   "Quizzes",
-  "Study\n\Materials",
+  "Feedback",
   "Tutorials",
   "My\nPerformance",
 ];
